@@ -1,7 +1,7 @@
 class Devtag < Formula
     desc "Play an audio clip whenever you git push or pull"
     homepage "https://github.com/kelvinxiao01/devtag"
-    url "https://github.com/kelvinxiao01/devtag/archive/refs/tags/v0.1.0.tar.gz"
+    url "https://github.com/kelvinxiao01/devtag/archive/refs/tags/v0.2.0.tar.gz"
     sha256 "3eaf43ae1d8fbb2d9fa668aa8561375a9e60845d4dd204aa2f1fff9996137486"
     license "MIT"
     head "https://github.com/kelvinxiao01/devtag.git", branch: "main"
